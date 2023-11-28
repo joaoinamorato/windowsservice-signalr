@@ -1,0 +1,12 @@
+C:\Projects\Nexmuv.Biometria.Websocket\NexmuvBiometriaInstaller\bin\Debug\NexmuvBiometriaInstaller.vsix
+C:\Projects\Nexmuv.Biometria.Websocket\NexmuvBiometriaInstaller\bin\Debug\extension.vsixmanifest
+C:\Projects\Nexmuv.Biometria.Websocket\NexmuvBiometriaInstaller\obj\Debug\NexmuvBiometriaInstaller.csproj.AssemblyReference.cache
+C:\Projects\Nexmuv.Biometria.Websocket\NexmuvBiometriaInstaller\obj\Debug\_EmptyResource.resources
+C:\Projects\Nexmuv.Biometria.Websocket\NexmuvBiometriaInstaller\obj\Debug\NexmuvBiometriaInstaller.csproj.GenerateResource.cache
+C:\Projects\Nexmuv.Biometria.Websocket\NexmuvBiometriaInstaller\obj\Debug\NexmuvBiometriaInstaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Nexmuv.Biometria.Websocket\NexmuvBiometriaInstaller\obj\Debug\NexmuvBiometriaInstaller.csproj.CoreCompileInputs.cache
+C:\Projects\Nexmuv.Biometria.Websocket\NexmuvBiometriaInstaller\obj\Debug\NexmuvBiometriaInstaller.dll
+C:\Projects\Nexmuv.Biometria.Websocket\NexmuvBiometriaInstaller\obj\Debug\NexmuvBiometriaInstaller.pdb
+C:\Projects\Nexmuv.Biometria.Websocket\NexmuvBiometriaInstaller\obj\Debug\extension.vsixmanifest
+C:\Projects\Nexmuv.Biometria.Websocket\NexmuvBiometriaInstaller\obj\Debug\files.json
+C:\Projects\Nexmuv.Biometria.Websocket\NexmuvBiometriaInstaller\obj\Debug\createTemplateManifests.cache

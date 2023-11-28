@@ -1,0 +1,563 @@
+﻿Installing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe assembly.
+Committing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+   start = auto
+Rolling back assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+   start = auto
+Installing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+   start = auto
+Installing service NexmuvBiometria...
+Creating EventLog source NexmuvBiometria in log Application...
+Rolling back assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+   start = auto
+Restoring event log to previous state for source NexmuvBiometria.
+Installing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Rolling back assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Installing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+   start = auto
+Rolling back assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+   start = auto
+Installing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Rolling back assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Installing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Installing service NexmuvBiometria...
+Creating EventLog source NexmuvBiometria in log Application...
+Rolling back assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Restoring event log to previous state for source NexmuvBiometria.
+Installing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Installing service NexmuvBiometria...
+Service NexmuvBiometria has been successfully installed.
+Creating EventLog source NexmuvBiometria in log Application...
+Committing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Installing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Installing service NexmuvBiometria...
+Creating EventLog source NexmuvBiometria in log Application...
+Rolling back assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Restoring event log to previous state for source NexmuvBiometria.
+Uninstalling assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Removing EventLog source NexmuvBiometria.
+Service NexmuvBiometria is being removed from the system...
+Service NexmuvBiometria was successfully removed from the system.
+Installing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Installing service NexmuvBiometria...
+Service NexmuvBiometria has been successfully installed.
+Creating EventLog source NexmuvBiometria in log Application...
+Committing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Uninstalling assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Removing EventLog source NexmuvBiometria.
+Service NexmuvBiometria is being removed from the system...
+Service NexmuvBiometria was successfully removed from the system.
+Installing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Installing service NexmuvBiometria...
+Service NexmuvBiometria has been successfully installed.
+Creating EventLog source NexmuvBiometria in log Application...
+Committing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Uninstalling assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Removing EventLog source NexmuvBiometria.
+Service NexmuvBiometria is being removed from the system...
+Service NexmuvBiometria was successfully removed from the system.
+Installing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Installing service NexmuvBiometria...
+Service NexmuvBiometria has been successfully installed.
+Creating EventLog source NexmuvBiometria in log Application...
+Committing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Uninstalling assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Removing EventLog source NexmuvBiometria.
+Service NexmuvBiometria is being removed from the system...
+Service NexmuvBiometria was successfully removed from the system.
+Installing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Installing service NexmuvBiometria...
+Service NexmuvBiometria has been successfully installed.
+Creating EventLog source NexmuvBiometria in log Application...
+Committing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Uninstalling assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Removing EventLog source NexmuvBiometria.
+Service NexmuvBiometria is being removed from the system...
+Service NexmuvBiometria was successfully removed from the system.
+Installing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Installing service NexmuvBiometria...
+Service NexmuvBiometria has been successfully installed.
+Creating EventLog source NexmuvBiometria in log Application...
+Committing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Uninstalling assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Removing EventLog source NexmuvBiometria.
+Service NexmuvBiometria is being removed from the system...
+Service NexmuvBiometria was successfully removed from the system.
+Installing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Installing service NexmuvBiometria...
+Service NexmuvBiometria has been successfully installed.
+Creating EventLog source NexmuvBiometria in log Application...
+Committing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Uninstalling assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Removing EventLog source NexmuvBiometria.
+Service NexmuvBiometria is being removed from the system...
+Service NexmuvBiometria was successfully removed from the system.
+Installing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Installing service NexmuvBiometria...
+Service NexmuvBiometria has been successfully installed.
+Creating EventLog source NexmuvBiometria in log Application...
+Committing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Uninstalling assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Removing EventLog source NexmuvBiometria.
+Service NexmuvBiometria is being removed from the system...
+Service NexmuvBiometria was successfully removed from the system.
+Installing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Installing service NexmuvBiometria...
+Service NexmuvBiometria has been successfully installed.
+Creating EventLog source NexmuvBiometria in log Application...
+Committing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Uninstalling assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Removing EventLog source NexmuvBiometria.
+Service NexmuvBiometria is being removed from the system...
+Service NexmuvBiometria was successfully removed from the system.
+Installing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Installing service NexmuvBiometria...
+Service NexmuvBiometria has been successfully installed.
+Creating EventLog source NexmuvBiometria in log Application...
+Committing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Uninstalling assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Removing EventLog source NexmuvBiometria.
+Service NexmuvBiometria is being removed from the system...
+Service NexmuvBiometria was successfully removed from the system.
+Installing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Installing service NexmuvBiometria...
+Service NexmuvBiometria has been successfully installed.
+Creating EventLog source NexmuvBiometria in log Application...
+Committing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Uninstalling assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Removing EventLog source NexmuvBiometria.
+Service NexmuvBiometria is being removed from the system...
+Service NexmuvBiometria was successfully removed from the system.
+Installing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Installing service NexmuvBiometria...
+Service NexmuvBiometria has been successfully installed.
+Creating EventLog source NexmuvBiometria in log Application...
+Committing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Uninstalling assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Removing EventLog source NexmuvBiometria.
+Service NexmuvBiometria is being removed from the system...
+Service NexmuvBiometria was successfully removed from the system.
+Installing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Installing service NexmuvBiometria...
+Creating EventLog source NexmuvBiometria in log Application...
+Rolling back assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Restoring event log to previous state for source NexmuvBiometria.
+Installing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Installing service NexmuvBiometria...
+Creating EventLog source NexmuvBiometria in log Application...
+Rolling back assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Restoring event log to previous state for source NexmuvBiometria.
+Installing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Installing service NexmuvBiometria...
+Service NexmuvBiometria has been successfully installed.
+Creating EventLog source NexmuvBiometria in log Application...
+Committing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Uninstalling assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Removing EventLog source NexmuvBiometria.
+Service NexmuvBiometria is being removed from the system...
+Service NexmuvBiometria was successfully removed from the system.
+Installing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Installing service NexmuvBiometria...
+Service NexmuvBiometria has been successfully installed.
+Creating EventLog source NexmuvBiometria in log Application...
+Committing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Uninstalling assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Removing EventLog source NexmuvBiometria.
+Service NexmuvBiometria is being removed from the system...
+Service NexmuvBiometria was successfully removed from the system.
+Installing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Installing service NexmuvBiometria...
+Service NexmuvBiometria has been successfully installed.
+Creating EventLog source NexmuvBiometria in log Application...
+Committing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Uninstalling assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Removing EventLog source NexmuvBiometria.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Removing EventLog source NexmuvBiometria.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Removing EventLog source NexmuvBiometria.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Installing service NexmuvBiometria...
+Creating EventLog source NexmuvBiometria in log Application...
+Rolling back assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Restoring event log to previous state for source NexmuvBiometria.
+Uninstalling assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Removing EventLog source NexmuvBiometria.
+Service NexmuvBiometria is being removed from the system...
+Service NexmuvBiometria was successfully removed from the system.
+Installing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Installing service NexmuvBiometria...
+Service NexmuvBiometria has been successfully installed.
+Creating EventLog source NexmuvBiometria in log Application...
+Committing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Uninstalling assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Removing EventLog source NexmuvBiometria.
+Service NexmuvBiometria is being removed from the system...
+Service NexmuvBiometria was successfully removed from the system.
+Installing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Installing service NexmuvBiometria...
+Service NexmuvBiometria has been successfully installed.
+Creating EventLog source NexmuvBiometria in log Application...
+Committing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Uninstalling assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Removing EventLog source NexmuvBiometria.
+Service NexmuvBiometria is being removed from the system...
+Service NexmuvBiometria was successfully removed from the system.
+Installing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Installing service NexmuvBiometria...
+Service NexmuvBiometria has been successfully installed.
+Creating EventLog source NexmuvBiometria in log Application...
+Committing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Uninstalling assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Removing EventLog source NexmuvBiometria.
+Service NexmuvBiometria is being removed from the system...
+Service NexmuvBiometria was successfully removed from the system.
+Installing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Installing service NexmuvBiometria...
+Service NexmuvBiometria has been successfully installed.
+Creating EventLog source NexmuvBiometria in log Application...
+Committing assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Uninstalling assembly 'C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Removing EventLog source NexmuvBiometria.
+Service NexmuvBiometria is being removed from the system...
+Service NexmuvBiometria was successfully removed from the system.

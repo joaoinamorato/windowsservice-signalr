@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+  <Product Id="*" Name="NexmuvBiometria" Language="1033" Version="1.0.0.0" Manufacturer="YourCompany" UpgradeCode="PUT-GUID-HERE">
+    <Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+    <MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+
+    <MediaTemplate EmbedCab="yes" />
+
+    <Feature Id="ProductFeature" Title="YourServiceInstaller" Level="1">
+      <ComponentGroupRef Id="ProductComponents" />
+    </Feature>
+
+    <!-- Define directory structure -->
+    <Directory Id="TARGETDIR" Name="SourceDir">
+      <Directory Id="ProgramFilesFolder">
+        <Directory Id="INSTALLFOLDER" Name="NexmuvBiometria">
+          <!-- Components -->
+        </Directory>
+      </Directory>
+    </Directory>
+
+    <!-- Define components -->
+    <Fragment>
+      <ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+        <!-- Service executable -->
+        <Component Id="ServiceExecutable" Guid="*">
+          <File Id="YourServiceEXE" Source="Nexmuv.Biometria.Websocket.exe" KeyPath="yes" />
+
+          <!-- Service installation -->
+          <ServiceInstall
+              Id="NexmuvBiometria"
+              Type="ownProcess"
+              Vital="yes"
+              Name="NexmuvBiometria"
+              DisplayName="NexmuvBiometria"
+              Description="NexmuvBiometria"
+              Start="auto"
+              Account="LocalService"
+              ErrorControl="normal"
+          />
+
+          <!-- Service control -->
+          <ServiceControl Id="StartService" Name="NexmuvBiometria" Start="install" Wait="yes" />
+          <ServiceControl Id="StopService" Name="NexmuvBiometria" Stop="both" Wait="yes" Remove="uninstall" />
+        </Component>
+      </ComponentGroup>
+    </Fragment>
+  </Product>
+</Wix>
