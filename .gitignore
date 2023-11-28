@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Nexmuv.Biometria.Websocket/FileContentIndex/4b127b54-086c-4175-bc9f-6719ca48ce63.vsidx
+/.vs/Nexmuv.Biometria.Websocket/FileContentIndex/647d3199-1a65-45d7-9c97-ca90fb4a5012.vsidx
+/.vs/Nexmuv.Biometria.Websocket/v17/.suo
+/Nexmuv.Biometria.Websocket/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache
+/Nexmuv.Biometria.Websocket/obj/Release/Nexmuv.Biometria.Websocket.csproj.AssemblyReference.cache
