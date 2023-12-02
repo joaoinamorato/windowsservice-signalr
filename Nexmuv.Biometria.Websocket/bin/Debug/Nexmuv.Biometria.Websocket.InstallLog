@@ -561,3 +561,194 @@ Affected parameters are:
 Removing EventLog source NexmuvBiometria.
 Service NexmuvBiometria is being removed from the system...
 Service NexmuvBiometria was successfully removed from the system.
+Instalando o assembly 'C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Instalando o serviço NexmuvBiometria...
+Criando a origem de EventLog NexmuvBiometria no log Application...
+Revertendo o assembly 'C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Restaurando o log de eventos para o estado anterior da origem NexmuvBiometria.
+Ocorreu uma exceção durante a fase de reversão do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Fonte não encontrada, mas alguns ou todos os logs de evento não puderam ser pesquisados. Logs inacessíveis: Security, State.
+Ocorreu uma exceção durante a fase de reversão da instalação. Essa exceção será ignorada e a reversão continuará. Mas talvez o computador não reverta totalmente para o estado inicial após a conclusão da reversão.
+Instalando o assembly 'C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Instalando o serviço NexmuvBiometria...
+Serviço NexmuvBiometria foi instalado com êxito.
+Criando a origem de EventLog NexmuvBiometria no log Application...
+Confirmando o assembly 'C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Instalando o assembly 'C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Instalando o serviço NexmuvBiometria...
+Criando a origem de EventLog NexmuvBiometria no log Application...
+Revertendo o assembly 'C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Restaurando o log de eventos para o estado anterior da origem NexmuvBiometria.
+Desinstalando o assembly 'C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Removendo a origem do EventLog NexmuvBiometria.
+Serviço NexmuvBiometria está sendo removido do sistema...
+Serviço NexmuvBiometria foi removido com êxito do sistema.
+Instalando o assembly 'C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Instalando o serviço NexmuvBiometria...
+Criando a origem de EventLog NexmuvBiometria no log Application...
+Revertendo o assembly 'C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Restaurando o log de eventos para o estado anterior da origem NexmuvBiometria.
+Desinstalando o assembly 'C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Removendo a origem do EventLog NexmuvBiometria.
+Aviso: a origem NexmuvBiometria não está registrada no computador local.
+Serviço NexmuvBiometria está sendo removido do sistema...
+Serviço NexmuvBiometria foi removido com êxito do sistema.
+Desinstalando o assembly 'C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Removendo a origem do EventLog NexmuvBiometria.
+Aviso: a origem NexmuvBiometria não está registrada no computador local.
+Serviço NexmuvBiometria está sendo removido do sistema...
+Serviço NexmuvBiometria foi removido com êxito do sistema.
+Instalando o assembly 'C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Instalando o serviço NexmuvBiometria...
+Criando a origem de EventLog NexmuvBiometria no log Application...
+Revertendo o assembly 'C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Restaurando o log de eventos para o estado anterior da origem NexmuvBiometria.
+Instalando o assembly 'C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Instalando o serviço NexmuvBiometria...
+Serviço NexmuvBiometria foi instalado com êxito.
+Criando a origem de EventLog NexmuvBiometria no log Application...
+Confirmando o assembly 'C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Desinstalando o assembly 'C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Removendo a origem do EventLog NexmuvBiometria.
+Serviço NexmuvBiometria está sendo removido do sistema...
+Serviço NexmuvBiometria foi removido com êxito do sistema.
+Instalando o assembly 'C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Instalando o serviço NexmuvBiometria...
+Serviço NexmuvBiometria foi instalado com êxito.
+Criando a origem de EventLog NexmuvBiometria no log Application...
+Confirmando o assembly 'C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Desinstalando o assembly 'C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Removendo a origem do EventLog NexmuvBiometria.
+Serviço NexmuvBiometria está sendo removido do sistema...
+Serviço NexmuvBiometria foi removido com êxito do sistema.
+Instalando o assembly 'C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Instalando o serviço NexmuvBiometria...
+Serviço NexmuvBiometria foi instalado com êxito.
+Criando a origem de EventLog NexmuvBiometria no log Application...
+Confirmando o assembly 'C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Desinstalando o assembly 'C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Removendo a origem do EventLog NexmuvBiometria.
+Serviço NexmuvBiometria está sendo removido do sistema...
+Serviço NexmuvBiometria foi removido com êxito do sistema.
+Instalando o assembly 'C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Instalando o serviço NexmuvBiometria...
+Serviço NexmuvBiometria foi instalado com êxito.
+Criando a origem de EventLog NexmuvBiometria no log Application...
+Confirmando o assembly 'C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Desinstalando o assembly 'C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Removendo a origem do EventLog NexmuvBiometria.
+Serviço NexmuvBiometria está sendo removido do sistema...
+Serviço NexmuvBiometria foi removido com êxito do sistema.
+Instalando o assembly 'C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe
+Instalando o serviço NexmuvBiometria...
+Serviço NexmuvBiometria foi instalado com êxito.
+Criando a origem de EventLog NexmuvBiometria no log Application...
+Confirmando o assembly 'C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog
+   assemblypath = C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe

@@ -7,7 +7,7 @@ namespace Nexmuv.Biometria.Websocket
     {
         public static void Run()
         {
-            const string url = @"http://localhost:8080/";
+            const string url = @"http://localhost:8585/";
             var connection = new HubConnection(url);
             var hub = connection.CreateHubProxy("BroadcastHub");
             connection.Start().Wait();

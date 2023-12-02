@@ -604,3 +604,187 @@ See the contents of the log file for the C:\Projects\Nexmuv.Biometria.Websocket\
 The file is located at C:\Projects\Nexmuv.Biometria.Websocket\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog.
 
 The uninstall has completed.
+
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe.
+Arquivo está localizado em C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog.
+
+Ocorreu uma exceção durante a fase de instalação.
+System.Security.SecurityException: Fonte não encontrada, mas alguns ou todos os logs de evento não puderam ser pesquisados. Logs inacessíveis: Security, State.
+
+Fase de reversão da instalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe.
+Arquivo está localizado em C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog.
+
+Fase de reversão foi concluída com êxito.
+
+Instalação transacionada concluída.
+
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe.
+Arquivo está localizado em C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog.
+
+Fase de instalação foi concluída com êxito e a fase de confirmação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe.
+Arquivo está localizado em C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog.
+
+Fase de confirmação foi concluída com êxito.
+
+Instalação transacionada concluída.
+
+
+Desinstalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe.
+Arquivo está localizado em C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog.
+
+Desinstalação concluída.
+
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe.
+Arquivo está localizado em C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog.
+
+Ocorreu uma exceção durante a fase de instalação.
+System.ComponentModel.Win32Exception: O serviço especificado foi marcado para ser excluído
+
+Fase de reversão da instalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe.
+Arquivo está localizado em C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog.
+
+Fase de reversão foi concluída com êxito.
+
+Instalação transacionada concluída.
+
+
+Desinstalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe.
+Arquivo está localizado em C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog.
+
+Desinstalação concluída.
+
+
+Desinstalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe.
+Arquivo está localizado em C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog.
+
+Desinstalação concluída.
+
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe.
+Arquivo está localizado em C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog.
+
+Ocorreu uma exceção durante a fase de instalação.
+System.ComponentModel.Win32Exception: O serviço especificado foi marcado para ser excluído
+
+Fase de reversão da instalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe.
+Arquivo está localizado em C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog.
+
+Fase de reversão foi concluída com êxito.
+
+Instalação transacionada concluída.
+
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe.
+Arquivo está localizado em C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog.
+
+Fase de instalação foi concluída com êxito e a fase de confirmação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe.
+Arquivo está localizado em C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog.
+
+Fase de confirmação foi concluída com êxito.
+
+Instalação transacionada concluída.
+
+
+Desinstalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe.
+Arquivo está localizado em C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog.
+
+Desinstalação concluída.
+
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe.
+Arquivo está localizado em C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog.
+
+Fase de instalação foi concluída com êxito e a fase de confirmação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe.
+Arquivo está localizado em C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog.
+
+Fase de confirmação foi concluída com êxito.
+
+Instalação transacionada concluída.
+
+
+Desinstalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe.
+Arquivo está localizado em C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog.
+
+Desinstalação concluída.
+
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe.
+Arquivo está localizado em C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog.
+
+Fase de instalação foi concluída com êxito e a fase de confirmação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe.
+Arquivo está localizado em C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog.
+
+Fase de confirmação foi concluída com êxito.
+
+Instalação transacionada concluída.
+
+
+Desinstalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe.
+Arquivo está localizado em C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog.
+
+Desinstalação concluída.
+
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe.
+Arquivo está localizado em C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog.
+
+Fase de instalação foi concluída com êxito e a fase de confirmação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe.
+Arquivo está localizado em C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog.
+
+Fase de confirmação foi concluída com êxito.
+
+Instalação transacionada concluída.
+
+
+Desinstalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe.
+Arquivo está localizado em C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog.
+
+Desinstalação concluída.
+
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe.
+Arquivo está localizado em C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog.
+
+Fase de instalação foi concluída com êxito e a fase de confirmação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.exe.
+Arquivo está localizado em C:\windowsservice-signalr-main\windowsservice-signalr-main\Nexmuv.Biometria.Websocket\bin\Debug\Nexmuv.Biometria.Websocket.InstallLog.
+
+Fase de confirmação foi concluída com êxito.
+
+Instalação transacionada concluída.

@@ -14,10 +14,10 @@ namespace Nexmuv.Biometria.Websocket
         {
             try
             {
-                if (false)//Environment.UserInteractive)
+                if (Environment.UserInteractive)//Environment.UserInteractive)
                 {
-                    //ManagedInstallerClass.InstallHelper(new string[] { Assembly.GetExecutingAssembly().Location });
-                    //ManagedInstallerClass.InstallHelper(new string[] { "/u", Assembly.GetExecutingAssembly().Location });
+                    ManagedInstallerClass.InstallHelper(new string[] { Assembly.GetExecutingAssembly().Location });
+                    ManagedInstallerClass.InstallHelper(new string[] { "/u", Assembly.GetExecutingAssembly().Location });
                     //break;
                 }
                 else
